@@ -1,0 +1,785 @@
+[
+ {
+   "Airline": "Emirates",
+   "Country": "United Arab Emirates",
+   "Score": 7.817,
+   "Change": "-0,02",
+   "On-Time Performance": "7,8",
+   "Quality of service": 8,
+   "Claim Processing": "7,7"
+ },
+ {
+   "Airline": "Meridiana fly S.p.A.",
+   "Country": "Italy",
+   "Score": 7.397,
+   "Change": "+0,30",
+   "On-Time Performance": "9,1",
+   "Quality of service": 6,
+   "Claim Processing": "7,1"
+ },
+ {
+   "Airline": "SAS Scandinavian Airlines",
+   "Country": "Sweden",
+   "Score": 7.61,
+   "Change": "-0,13",
+   "On-Time Performance": "8,2",
+   "Quality of service": 6,
+   "Claim Processing": "8,6"
+ },
+ {
+   "Airline": "Air Serbia",
+   "Country": "Serbia",
+   "Score": 6.24,
+   "Change": "-0,20",
+   "On-Time Performance": "9,3",
+   "Quality of service": 6,
+   "Claim Processing": "3,4"
+ },
+ {
+   "Airline": "Brussels Airlines",
+   "Country": "Belgium",
+   "Score": 7.51,
+   "Change": "-0,13",
+   "On-Time Performance": "8,2",
+   "Quality of service": 6,
+   "Claim Processing": "8,3"
+ },
+ {
+   "Airline": "British Airways",
+   "Country": "United Kingdom",
+   "Score": 8.14,
+   "Change": "+0,01",
+   "On-Time Performance": "7,8",
+   "Quality of service": 8,
+   "Claim Processing": "8,7"
+ },
+ {
+   "Airline": "Thai Airways International",
+   "Country": "Thailand",
+   "Score": 6.883,
+   "Change": "-0,07",
+   "On-Time Performance": "6,1",
+   "Quality of service": 8,
+   "Claim Processing": "6,6"
+ },
+ {
+   "Airline": "WOW Air",
+   "Country": "Iceland",
+   "Score": 6.933,
+   "Change": "-0,67",
+   "On-Time Performance": "7,5",
+   "Quality of service": 6,
+   "Claim Processing": "7,3"
+ },
+ {
+   "Airline": "Westjet",
+   "Country": "Canada",
+   "Score": 7.37,
+   "Change": "-0,24",
+   "On-Time Performance": "7,1",
+   "Quality of service": 6,
+   "Claim Processing": "9,1"
+ },
+ {
+   "Airline": "Air Canada",
+   "Country": "Canada",
+   "Score": 7.813,
+   "Change": "-0,39",
+   "On-Time Performance": "6,6",
+   "Quality of service": 8,
+   "Claim Processing": "8,9"
+ },
+ {
+   "Airline": "Pakistan International Airlines",
+   "Country": "Pakistan",
+   "Score": 5.307,
+   "Change": "+0,05",
+   "On-Time Performance": "7,5",
+   "Quality of service": 6,
+   "Claim Processing": "2,4"
+ },
+ {
+   "Airline": "Aeromexico",
+   "Country": "Mexico",
+   "Score": 7.427,
+   "Change": "+0,22",
+   "On-Time Performance": "7,8",
+   "Quality of service": 6,
+   "Claim Processing": "8,4"
+ },
+ {
+   "Airline": "Czech Airlines",
+   "Country": "Czech Republic",
+   "Score": 7.447,
+   "Change": "-0,11",
+   "On-Time Performance": "7,6",
+   "Quality of service": 6,
+   "Claim Processing": "8,7"
+ },
+ {
+   "Airline": "Adria Airways",
+   "Country": "Slovenia",
+   "Score": 6.837,
+   "Change": "-0,90",
+   "On-Time Performance": "9,2",
+   "Quality of service": 6,
+   "Claim Processing": "5,3"
+ },
+ {
+   "Airline": "Cathay Pacific Airways",
+   "Country": "Hong Kong",
+   "Score": 6.16,
+   "Change": "-0,56",
+   "On-Time Performance": "7,5",
+   "Quality of service": 10,
+   "Claim Processing": "1,0"
+ },
+ {
+   "Airline": "Ukraine International Airlines",
+   "Country": "Ukraine",
+   "Score": 6.683,
+   "Change": "+0,27",
+   "On-Time Performance": "9,4",
+   "Quality of service": 4,
+   "Claim Processing": "6,7"
+ },
+ {
+   "Airline": "American Airlines",
+   "Country": "USA",
+   "Score": 7.5631,
+   "Change": "-0,13",
+   "On-Time Performance": "8,0",
+   "Quality of service": 6,
+   "Claim Processing": "8,7"
+ },
+ {
+   "Airline": "Monarch Airlines",
+   "Country": "United Kingdom",
+   "Score": 5.157,
+   "Change": "-0,14",
+   "On-Time Performance": "8,6",
+   "Quality of service": 6,
+   "Claim Processing": "0,8"
+ },
+ {
+   "Airline": "Aer Lingus",
+   "Country": "Ireland",
+   "Score": 7.973,
+   "Change": "+0,05",
+   "On-Time Performance": "8,8",
+   "Quality of service": 8,
+   "Claim Processing": "7,2"
+ },
+ {
+   "Airline": "City Jet",
+   "Country": "Ireland",
+   "Score": 7.493,
+   "Change": "+0,07",
+   "On-Time Performance": "7,8",
+   "Quality of service": 6,
+   "Claim Processing": "8,7"
+ },
+ {
+   "Airline": "TUI fly Netherlands",
+   "Country": "Netherlands",
+   "Score": 7.953,
+   "Change": "NEW *",
+   "On-Time Performance": "9,1",
+   "Quality of service": 6,
+   "Claim Processing": "8,8"
+ },
+ {
+   "Airline": "NIKI",
+   "Country": "Austria",
+   "Score": 7.007,
+   "Change": "-0,58",
+   "On-Time Performance": "6,9",
+   "Quality of service": 6,
+   "Claim Processing": "8,1"
+ },
+ {
+   "Airline": "Aerolineas Argentinas",
+   "Country": "Argentina",
+   "Score": 6.023,
+   "Change": "+0,21",
+   "On-Time Performance": "8,4",
+   "Quality of service": 6,
+   "Claim Processing": "3,7"
+ },
+ {
+   "Airline": "SmartWings",
+   "Country": "Czech Republic",
+   "Score": 5.007,
+   "Change": "-0,75",
+   "On-Time Performance": "8,0",
+   "Quality of service": 4,
+   "Claim Processing": "3,1"
+ },
+ {
+   "Airline": "El Al Israel Airlines",
+   "Country": "Israel",
+   "Score": 6.543,
+   "Change": "+0,35",
+   "On-Time Performance": "6,6",
+   "Quality of service": 6,
+   "Claim Processing": "7,0"
+ },
+ {
+   "Airline": "Air India",
+   "Country": "India",
+   "Score": 6.333,
+   "Change": "-0,44",
+   "On-Time Performance": "5,3",
+   "Quality of service": 6,
+   "Claim Processing": "7,7"
+ },
+ {
+   "Airline": "Air Berlin",
+   "Country": "Germany",
+   "Score": 7.433,
+   "Change": "+0,09",
+   "On-Time Performance": "8,0",
+   "Quality of service": 6,
+   "Claim Processing": "8,4"
+ },
+ {
+   "Airline": "Flybe",
+   "Country": "United Kingdom",
+   "Score": 7.7,
+   "Change": "-0,15",
+   "On-Time Performance": "8,9",
+   "Quality of service": 6,
+   "Claim Processing": "8,2"
+ },
+ {
+   "Airline": "Icelandair",
+   "Country": "Iceland",
+   "Score": 7.663,
+   "Change": "+0,03",
+   "On-Time Performance": "7,7",
+   "Quality of service": 6,
+   "Claim Processing": "9,3"
+ },
+ {
+   "Airline": "Kenya Airways",
+   "Country": "Kenya",
+   "Score": 7.24,
+   "Change": "+0,13",
+   "On-Time Performance": "7,5",
+   "Quality of service": 6,
+   "Claim Processing": "8,2"
+ },
+ {
+   "Airline": "United Airlines",
+   "Country": "USA",
+   "Score": 7.597,
+   "Change": "-0,10",
+   "On-Time Performance": "7,7",
+   "Quality of service": 6,
+   "Claim Processing": "9,1"
+ },
+ {
+   "Airline": "Aeroflot Russian Airlines",
+   "Country": "Russia",
+   "Score": 7.767,
+   "Change": "+0,46",
+   "On-Time Performance": "8,0",
+   "Quality of service": 8,
+   "Claim Processing": "7,3"
+ },
+ {
+   "Airline": "Eurowings",
+   "Country": "Germany",
+   "Score": 7.787,
+   "Change": "+0,10",
+   "On-Time Performance": "8,8",
+   "Quality of service": 6,
+   "Claim Processing": "8,6"
+ },
+ {
+   "Airline": "Ethiopian Airlines",
+   "Country": "Ethiopia",
+   "Score": 7.477,
+   "Change": "+0,24",
+   "On-Time Performance": "8,3",
+   "Quality of service": 6,
+   "Claim Processing": "8,1"
+ },
+ {
+   "Airline": "Finnair",
+   "Country": "Finland",
+   "Score": 7.577,
+   "Change": "-0,09",
+   "On-Time Performance": "8,0",
+   "Quality of service": 8,
+   "Claim Processing": "6,7"
+ },
+ {
+   "Airline": "Avianca",
+   "Country": "Colombia",
+   "Score": 7.1,
+   "Change": "+0,28",
+   "On-Time Performance": "7,9",
+   "Quality of service": 6,
+   "Claim Processing": "7,4"
+ },
+ {
+   "Airline": "Tarom",
+   "Country": "Romania",
+   "Score": 7.12,
+   "Change": "-0,23",
+   "On-Time Performance": "7,9",
+   "Quality of service": 6,
+   "Claim Processing": "7,5"
+ },
+ {
+   "Airline": "Air Europa",
+   "Country": "Spain",
+   "Score": 7.517,
+   "Change": "+1,21",
+   "On-Time Performance": "8,2",
+   "Quality of service": 6,
+   "Claim Processing": "8,4"
+ },
+ {
+   "Airline": "Condor Flugdienst",
+   "Country": "Germany",
+   "Score": 7.707,
+   "Change": "+0,07",
+   "On-Time Performance": "8,6",
+   "Quality of service": 6,
+   "Claim Processing": "8,5"
+ },
+ {
+   "Airline": "Royal Jordanian",
+   "Country": "Jordan",
+   "Score": 5.673,
+   "Change": "-0,66",
+   "On-Time Performance": "8,0",
+   "Quality of service": 6,
+   "Claim Processing": "3,1"
+ },
+ {
+   "Airline": "Virgin Atlantic Airways",
+   "Country": "United Kingdom",
+   "Score": 7.993,
+   "Change": "+0,01",
+   "On-Time Performance": "7,9",
+   "Quality of service": 8,
+   "Claim Processing": "8,1"
+ },
+ {
+   "Airline": "Wideroe's Flyveselskap",
+   "Country": "Norway",
+   "Score": 7.907,
+   "Change": "NEW *",
+   "On-Time Performance": "9,5",
+   "Quality of service": 6,
+   "Claim Processing": "8,3"
+ },
+ {
+   "Airline": "Bulgaria Air",
+   "Country": "Bulgaria",
+   "Score": 4.933,
+   "Change": "-1,06",
+   "On-Time Performance": "8,6",
+   "Quality of service": 4,
+   "Claim Processing": "2,2"
+ },
+ {
+   "Airline": "Air Dolomiti",
+   "Country": "Italy",
+   "Score": 8.217,
+   "Change": "-0,20",
+   "On-Time Performance": "9,0",
+   "Quality of service": 8,
+   "Claim Processing": "7,7"
+ },
+ {
+   "Airline": "KLM-Royal Dutch Airlines",
+   "Country": "Netherlands",
+   "Score": 7.943,
+   "Change": "-0,36",
+   "On-Time Performance": "7,9",
+   "Quality of service": 8,
+   "Claim Processing": "7,9"
+ },
+ {
+   "Airline": "Pegasus Airlines",
+   "Country": "Turkey",
+   "Score": 6.86,
+   "Change": "-0,16",
+   "On-Time Performance": "8,3",
+   "Quality of service": 4,
+   "Claim Processing": "8,3"
+ },
+ {
+   "Airline": "Singapore Airlines",
+   "Country": "Singapore",
+   "Score": 8.73,
+   "Change": "+0,30",
+   "On-Time Performance": "8,7",
+   "Quality of service": 10,
+   "Claim Processing": "7,5"
+ },
+ {
+   "Airline": "TAP Portugal",
+   "Country": "Portugal",
+   "Score": 7.213,
+   "Change": "-0,04",
+   "On-Time Performance": "7,8",
+   "Quality of service": 6,
+   "Claim Processing": "7,9"
+ },
+ {
+   "Airline": "Air Malta",
+   "Country": "Malta",
+   "Score": 7.89,
+   "Change": "-0,06",
+   "On-Time Performance": "8,7",
+   "Quality of service": 6,
+   "Claim Processing": "9,0"
+ },
+ {
+   "Airline": "Delta Air Lines",
+   "Country": "USA",
+   "Score": 7.413,
+   "Change": "-0,27",
+   "On-Time Performance": "8,1",
+   "Quality of service": 6,
+   "Claim Processing": "8,1"
+ },
+ {
+   "Airline": "Austrian Airlines AG dba Austrian",
+   "Country": "Austria",
+   "Score": 8.383,
+   "Change": "-0,06",
+   "On-Time Performance": "8,2",
+   "Quality of service": 8,
+   "Claim Processing": "9,0"
+ },
+ {
+   "Airline": "LOT - Polish Airlines",
+   "Country": "Poland",
+   "Score": 7.43,
+   "Change": "0,00 -",
+   "On-Time Performance": "7,9",
+   "Quality of service": 6,
+   "Claim Processing": "8,4"
+ },
+ {
+   "Airline": "Latam Airlines Group",
+   "Country": "Chile",
+   "Score": 7.57,
+   "Change": "-0,03",
+   "On-Time Performance": "8,8",
+   "Quality of service": 6,
+   "Claim Processing": "7,9"
+ },
+ {
+   "Airline": "Qatar Airways",
+   "Country": "Qatar",
+   "Score": 8.46,
+   "Change": "-0,44",
+   "On-Time Performance": "8,0",
+   "Quality of service": 10,
+   "Claim Processing": "7,4"
+ },
+ {
+   "Airline": "Latam Airlines Brasil",
+   "Country": "Brazil",
+   "Score": 5.75,
+   "Change": "NEW *",
+   "On-Time Performance": "8,5",
+   "Quality of service": 6,
+   "Claim Processing": "2,8"
+ },
+ {
+   "Airline": "Etihad Airways",
+   "Country": "United Arab Emirates",
+   "Score": 8.48,
+   "Change": "+0,05",
+   "On-Time Performance": "8,6",
+   "Quality of service": 10,
+   "Claim Processing": "6,8"
+ },
+ {
+   "Airline": "Luxair",
+   "Country": "Luxembourg",
+   "Score": 7.417,
+   "Change": "-0,04",
+   "On-Time Performance": "8,3",
+   "Quality of service": 6,
+   "Claim Processing": "8,0"
+ },
+ {
+   "Airline": "Croatia Airlines",
+   "Country": "Croatia",
+   "Score": 7.653,
+   "Change": "-0,19",
+   "On-Time Performance": "8,4",
+   "Quality of service": 6,
+   "Claim Processing": "8,5"
+ },
+ {
+   "Airline": "Saudi Arabian Airlines",
+   "Country": "Saudi Arabia",
+   "Score": 6.207,
+   "Change": "+0,06",
+   "On-Time Performance": "8,1",
+   "Quality of service": 8,
+   "Claim Processing": "2,6"
+ },
+ {
+   "Airline": "Egyptair",
+   "Country": "Egypt",
+   "Score": 5.267,
+   "Change": "-1,29",
+   "On-Time Performance": "6,8",
+   "Quality of service": 6,
+   "Claim Processing": "3,1"
+ },
+ {
+   "Airline": "Easyjet",
+   "Country": "United Kingdom",
+   "Score": 5.933,
+   "Change": "-0,09",
+   "On-Time Performance": "7,6",
+   "Quality of service": 6,
+   "Claim Processing": "4,2"
+ },
+ {
+   "Airline": "Norwegian Air Shuttle",
+   "Country": "Norway",
+   "Score": 5.98,
+   "Change": "-0,14",
+   "On-Time Performance": "7,9",
+   "Quality of service": 6,
+   "Claim Processing": "4,1"
+ },
+ {
+   "Airline": "Turkish Airlines",
+   "Country": "Turkey",
+   "Score": 7.573,
+   "Change": "-0,25",
+   "On-Time Performance": "7,9",
+   "Quality of service": 8,
+   "Claim Processing": "6,8"
+ },
+ {
+   "Airline": "Tunisair",
+   "Country": "Tunisia",
+   "Score": 5.15,
+   "Change": "-0,33",
+   "On-Time Performance": "6,7",
+   "Quality of service": 6,
+   "Claim Processing": "2,7"
+ },
+ {
+   "Airline": "Air France",
+   "Country": "France",
+   "Score": 7.923,
+   "Change": "-0,23",
+   "On-Time Performance": "7,6",
+   "Quality of service": 8,
+   "Claim Processing": "8,2"
+ },
+ {
+   "Airline": "Ryanair",
+   "Country": "Ireland",
+   "Score": 5.207,
+   "Change": "-0,06",
+   "On-Time Performance": "8,8",
+   "Quality of service": 6,
+   "Claim Processing": "0,8"
+ },
+ {
+   "Airline": "Air Baltic Corporation",
+   "Country": "Latvia",
+   "Score": 7.763,
+   "Change": "-0,25",
+   "On-Time Performance": "9,0",
+   "Quality of service": 6,
+   "Claim Processing": "8,3"
+ },
+ {
+   "Airline": "Thomas Cook Airlines DK",
+   "Country": "United Kingdom",
+   "Score": 6.36,
+   "Change": "+0,01",
+   "On-Time Performance": "8,9",
+   "Quality of service": 6,
+   "Claim Processing": "4,2"
+ },
+ {
+   "Airline": "SATA",
+   "Country": "Portugal",
+   "Score": 5.71,
+   "Change": "+0,05",
+   "On-Time Performance": "7,8",
+   "Quality of service": 6,
+   "Claim Processing": "3,3"
+ },
+ {
+   "Airline": "Edelweiss Air",
+   "Country": "Switzerland",
+   "Score": 6.693,
+   "Change": "+0,15",
+   "On-Time Performance": "8,7",
+   "Quality of service": 8,
+   "Claim Processing": "3,4"
+ },
+ {
+   "Airline": "Iberia",
+   "Country": "Spain",
+   "Score": 7.253,
+   "Change": "+0,33",
+   "On-Time Performance": "8,9",
+   "Quality of service": 6,
+   "Claim Processing": "6,8"
+ },
+ {
+   "Airline": "China Eastern Airlines",
+   "Country": "China",
+   "Score": 5.277,
+   "Change": "+0,28",
+   "On-Time Performance": "6,4",
+   "Quality of service": 6,
+   "Claim Processing": "3,4"
+ },
+ {
+   "Airline": "Alitalia - Compagnia Aerea Italiana Spa",
+   "Country": "Italy",
+   "Score": 6.923,
+   "Change": "-0,32",
+   "On-Time Performance": "8,3",
+   "Quality of service": 6,
+   "Claim Processing": "6,4"
+ },
+ {
+   "Airline": "Air Transat A.T.Inc.",
+   "Country": "Canada",
+   "Score": 8.287,
+   "Change": "-0,07",
+   "On-Time Performance": "9,9",
+   "Quality of service": 6,
+   "Claim Processing": "9,0"
+ },
+ {
+   "Airline": "TACV Cabo Verde Airlines",
+   "Country": "Cape Verde",
+   "Score": 5.97,
+   "Change": "-0,11",
+   "On-Time Performance": "9,5",
+   "Quality of service": 6,
+   "Claim Processing": "2,4"
+ },
+ {
+   "Airline": "Air Arabia",
+   "Country": "United Arab Emirates",
+   "Score": 6.587,
+   "Change": "NEW *",
+   "On-Time Performance": "9,0",
+   "Quality of service": 6,
+   "Claim Processing": "4,7"
+ },
+ {
+   "Airline": "Olympic Air",
+   "Country": "Greece",
+   "Score": 7.46,
+   "Change": "+1,40",
+   "On-Time Performance": "9,6",
+   "Quality of service": 6,
+   "Claim Processing": "6,8"
+ },
+ {
+   "Airline": "Air Austral",
+   "Country": "Reunion",
+   "Score": 6.55,
+   "Change": "+0,45",
+   "On-Time Performance": "9,7",
+   "Quality of service": 6,
+   "Claim Processing": "3,9"
+ },
+ {
+   "Airline": "Air China",
+   "Country": "China",
+   "Score": 5.483,
+   "Change": "+0,75",
+   "On-Time Performance": "6,5",
+   "Quality of service": 6,
+   "Claim Processing": "4,0"
+ },
+ {
+   "Airline": "Air Caraibes",
+   "Country": "Guadeloupe",
+   "Score": 7.697,
+   "Change": "+1,00",
+   "On-Time Performance": "9,5",
+   "Quality of service": 6,
+   "Claim Processing": "7,6"
+ },
+ {
+   "Airline": "Gulf Air",
+   "Country": "Bahrain",
+   "Score": 5.443,
+   "Change": "NEW *",
+   "On-Time Performance": "7,0",
+   "Quality of service": 6,
+   "Claim Processing": "3,3"
+ },
+ {
+   "Airline": "Transavia.com",
+   "Country": "France",
+   "Score": 7.75,
+   "Change": "-0,29",
+   "On-Time Performance": "8,6",
+   "Quality of service": 6,
+   "Claim Processing": "8,7"
+ },
+ {
+   "Airline": "Wizz Air",
+   "Country": "Hungary",
+   "Score": 7.243,
+   "Change": "-0,47",
+   "On-Time Performance": "8,8",
+   "Quality of service": 6,
+   "Claim Processing": "6,9"
+ },
+ {
+   "Airline": "Vueling Airlines",
+   "Country": "Spain",
+   "Score": 7.563,
+   "Change": "+1,33",
+   "On-Time Performance": "8,5",
+   "Quality of service": 6,
+   "Claim Processing": "8,2"
+ },
+ {
+   "Airline": "Lufthansa",
+   "Country": "Germany",
+   "Score": 7.613,
+   "Change": "+0,04",
+   "On-Time Performance": "7,9",
+   "Quality of service": 8,
+   "Claim Processing": "6,9"
+ },
+ {
+   "Airline": "Swiss International Air Lines",
+   "Country": "Switzerland",
+   "Score": 7.617,
+   "Change": "-0,09",
+   "On-Time Performance": "7,6",
+   "Quality of service": 8,
+   "Claim Processing": "7,3"
+ },
+ {
+   "Airline": "Jet Airways (india) Ltd",
+   "Country": "India",
+   "Score": 5.503,
+   "Change": "-0,25",
+   "On-Time Performance": "6,7",
+   "Quality of service": 6,
+   "Claim Processing": "3,8"
+ }
+]
